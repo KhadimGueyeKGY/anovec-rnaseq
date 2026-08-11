@@ -1,0 +1,8 @@
+fasta_gz: /mnt/hpc_acegid/home/khadmig/work/script/For_Lynda/anovec-rnaseq-nf/references/Anopheles_coluzzii.AcolN3.dna.toplevel.fa.gz
+gtf_gz: /mnt/hpc_acegid/home/khadmig/work/script/For_Lynda/anovec-rnaseq-nf/references/Anopheles_coluzzii.AcolN3.63.gtf.gz
+samplesheet: /mnt/hpc_acegid/home/khadmig/work/script/For_Lynda/anovec-rnaseq-nf/samplesheet.csv
+# fastq_dir: /path/to/fastq_folder
+# strandedness: reverse
+outdir: /mnt/hpc_acegid/home/khadmig/work/data/For_Lynda/260718_VH00635_9_AAJ2KFGM5/output_analysis
+threads: 8
+read_length: 151
