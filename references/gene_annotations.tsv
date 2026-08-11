@@ -1,0 +1,614 @@
+gene_id	accession	gene_name	description	function
+ACON2_029174	XM_049611010.1	LOC125908317	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_029219	XM_040375931.2	LOC120955242	multiple epidermal growth factor-like domains protein 10	multiple epidermal growth factor-like domains protein 10|EB domain-containing protein
+ACON2_029232	XM_049606534.1	LOC125906673	uncharacterized LOC125906673	uncharacterized protein LOC125906673
+ACON2_029267	XM_040368683.2	LOC120950557	probable fatty acid-binding protein	probable fatty acid-binding protein|FABP domain-containing protein
+ACON2_029279	XM_040380578.2	LOC120958040	uncharacterized LOC120958040	uncharacterized protein LOC120958040|MARVEL domain-containing protein
+ACON2_029327	XM_049611033.1	LOC120961252	uncharacterized LOC120961252	uncharacterized protein LOC120961252
+ACON2_029340	XM_040370274.2	LOC120951505	transmembrane protease serine 9-like	transmembrane protease serine 9-like|Peptidase S1 domain-containing protein
+ACON2_029354	XM_049606232.1	LOC120955016	uncharacterized LOC120955016	uncharacterized protein LOC120955016
+ACON2_029366	XR_007452851.1	LOC125907680	uncharacterized LOC125907680	
+ACON2_029376	XM_040379675.2	LOC120957460	CD109 antigen	CD109 antigen|Thioester-containing protein 1|thioester protein 3
+ACON2_029426	XR_005751926.2	LOC120957331	uncharacterized LOC120957331	
+ACON2_029497	XM_040365492.2	LOC120948783	opsin-1-like	opsin-1-like|G_PROTEIN_RECEP_F1_2 domain-containing protein
+ACON2_029509	XR_007452270.1	LOC120959347	uncharacterized LOC120959347	
+ACON2_029511	XM_040377429.2	LOC120956049	cell cycle control protein 50A-like	cell cycle control protein 50A-like
+ACON2_029517	XM_040372866.2	LOC120953149	heat shock 70 kDa protein cognate 4-like	heat shock 70 kDa protein cognate 4-like|Heat shock protein 70
+ACON2_029523	XM_040376708.2	Cdk1	Cyclin-dependent kinase 1	cyclin-dependent kinase 1|Protein kinase domain-containing protein
+ACON2_029558	XM_049608847.1	LOC120954633	zinc finger protein 425-like	zinc finger protein 425-like
+ACON2_029563	XM_049605621.1	LOC120950585	uncharacterized LOC120950585	uncharacterized protein LOC120950585|GTP-binding protein RAD
+ACON2_029586	XM_049606172.1	LOC125906592	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_029612	XM_040380816.2	LOC120958190	proton-coupled amino acid transporter-like protein CG1139	proton-coupled amino acid transporter-like protein CG1139
+ACON2_029633	XM_049607486.1	LOC125906840	uncharacterized LOC125906840	uncharacterized protein LOC125906840
+ACON2_029656	XM_040382502.2	BicC	protein bicaudal C	protein bicaudal C|SAM domain-containing protein
+ACON2_029693	XM_040378577.2	LOC120956821	chromosome-associated kinesin KIF4A-like	chromosome-associated kinesin KIF4A-like
+ACON2_029702	XM_049605619.1	LOC120950763	uncharacterized LOC120950763	uncharacterized protein LOC120950763
+ACON2_029727	XM_040368860.2	LOC120950642	uncharacterized LOC120950642	uncharacterized protein LOC120950642
+ACON2_029730	XM_040381176.2	LOC120958401	secreted protein C	secreted protein C
+ACON2_029733	XM_040378256.2	Reph	Regulator of eph expression	protein disconnected|uncharacterized protein LOC120956627
+ACON2_029747	XM_040376033.2	LUBEL	Linear Ubiquitin E3 ligase	E3 ubiquitin-protein ligase lubel
+ACON2_029763	XR_007452521.1	LOC125907236	uncharacterized LOC125907236	
+ACON2_029776	XM_040375413.2	mnd	L-type amino acid transporter minidiscs	Y+L amino acid transporter 2|Large neutral amino acids transporter small subunit 1|large neutral amino acids transporter small subunit 2
+ACON2_029804	XM_040373231.2	LOC120953363	polyubiquitin-C-like	polyubiquitin-C-like
+ACON2_029861	XR_007452836.1	LOC125907661	large subunit ribosomal RNA	
+ACON2_029887	XM_040378678.2	LOC120956889	uncharacterized LOC120956889	uncharacterized protein LOC120956889
+ACON2_029889	XM_040375666.2	LOC120955132	putative gamma-glutamylcyclotransferase CG2811	putative gamma-glutamylcyclotransferase CG2811|Gamma-glutamylcyclotransferase family protein
+ACON2_029903	XM_040364706.2	pygo	pygopus family PHD finger	protein pygopus|PHD-type domain-containing protein
+ACON2_029943	XM_040384726.2	LOC120961087	uncharacterized LOC120961087	uncharacterized protein LOC120961087|Ima1_N domain-containing protein
+ACON2_029970	XM_040382469.2	LOC120959218	glutathione S-transferase 1-1-like	glutathione S-transferase 1-1-like|glutathione transferase
+ACON2_029978	XM_040363906.2	LOC120947981	phenoloxidase 8-like	phenoloxidase 8-like|Tyrosinase_Cu-bd domain-containing protein
+ACON2_030018	XM_040366211.2	LOC120949153	glycine dehydrogenase (decarboxylating), mitochondrial	glycine dehydrogenase (decarboxylating), mitochondrial
+ACON2_030021	XR_007453321.1	LOC125908236	uncharacterized LOC125908236	
+ACON2_030044	XM_049608769.1	LOC120958487	uncharacterized LOC120958487	uncharacterized protein LOC120958487
+ACON2_030097	XM_040371764.2	LOC120952437	general odorant-binding protein 83a-like	general odorant-binding protein 83a-like|Odorant-binding protein
+ACON2_030103	XM_040365795.2	LOC120948927	serine protease gd-like	serine protease gd-like|Peptidase S1 domain-containing protein
+ACON2_030119	XM_049611014.1	LOC125908319	uncharacterized LOC125908319	uncharacterized protein LOC125908319
+ACON2_030152	XM_040376579.2	LOC120955579	lysosomal alpha-mannosidase-like	lysosomal alpha-mannosidase-like
+ACON2_030154	XM_040365945.2	LOC120949016	solute carrier organic anion transporter family member 74D-like	solute carrier organic anion transporter family member 74D-like
+ACON2_030192	XM_040377025.2	LOC120955838	probable serine/threonine-protein kinase kinX	probable serine/threonine-protein kinase kinX
+ACON2_030198	XM_040367811.2	LOC120950071	M-phase inducer phosphatase-like	M-phase inducer phosphatase-like|uncharacterized protein LOC120950071
+ACON2_030220	XM_040382314.2	LOC120959136	protein scylla-like	alpha-protein kinase 1-like|Thyroid hormone receptor-associated protein complex subunit
+ACON2_030247	XM_049606417.1	nw	narrow	myotubularin-related protein DDB_G0290005|C-type lectin domain-containing protein|ribosomal biogenesis protein LAS1L|uncharacterized protein LOC120953701
+ACON2_030250	XM_040376932.2	LOC120955786	multiple epidermal growth factor-like domains protein 6	multiple epidermal growth factor-like domains protein 6|Chitin-binding type-2 domain-containing protein
+ACON2_030303	XM_040378017.2	LOC120956512	uncharacterized LOC120956512	uncharacterized protein LOC120956512
+ACON2_030321	XM_049606481.1	Oct-TyrR	Octopamine-Tyramine receptor	octopamine receptor|G_PROTEIN_RECEP_F1_2 domain-containing protein
+ACON2_030339	XM_040369138.2	LOC120950802	alpha-protein kinase 1-like	alpha-protein kinase 1-like|AXH domain-containing protein
+ACON2_030362	XM_040369201.2	Dhc1	dynein axonemal heavy chain 1	dynein axonemal heavy chain 5|Dynein heavy chain 1|dynein heavy chain 5, axonemal
+ACON2_030368	XM_040375911.2	LOC120955231	uncharacterized LOC120955231	uncharacterized protein LOC120955231
+ACON2_030396	XM_040377250.2	tzn	hydroxyacylglutathione hydrolase tenzing norgay	hydroxyacylglutathione hydrolase, mitochondrial|Lactamase_B domain-containing protein
+ACON2_030428	XM_049607537.1	LOC125906853	uncharacterized LOC125906853	uncharacterized protein LOC125906853
+ACON2_030463	XM_040364031.2	LOC120948043	progestin and adipoQ receptor family member 3	progestin and adipoQ receptor family member 3
+ACON2_030487	XM_040366113.2	LOC120949099	mucin-5AC	mucin-5AC
+ACON2_030492	XM_040374276.2	Klp61F	Kinesin-like protein at 61F	kinesin-like protein Klp61F
+ACON2_030501	XM_040377918.2	LOC120956446	uncharacterized LOC120956446	uncharacterized protein LOC120956446
+ACON2_030525	XM_040367996.2	Cipc	Clock interacting protein circadian	location of vulva defective 1|putative protein TPRXL
+ACON2_030534	XM_040375978.2	shtd	anaphase promoting complex subunit 1	anaphase-promoting complex subunit 1
+ACON2_030573	XM_040365133.2	LOC120948605	uncharacterized LOC120948605	uncharacterized protein LOC120948605|Retrotransposon gag domain-containing protein
+ACON2_030579	XM_040365112.2	Arr2	arrestin 2	arrestin homolog|Arrestin_C domain-containing protein
+ACON2_030607	XM_040366165.2	ple	tyrosine hydroxylase ple	tyrosine 3-monooxygenase
+ACON2_030616	XM_040382259.2	LOC120959091	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_030640	XM_040364247.2	nAChRalpha1	nicotinic acetylcholine receptor alpha1	acetylcholine receptor subunit alpha-like 1
+ACON2_030663	XM_040363182.2	TwdlT	TweedleT	keratin, type I cytoskeletal 9|DUF243 domain-containing protein
+ACON2_030678	XM_040378878.2	LOC120956987	transcription termination factor 2	dynein regulatory complex protein 11
+ACON2_030697	XM_049606536.1	LOC125906674	uncharacterized LOC125906674	uncharacterized protein LOC125906674
+ACON2_030716	XM_040385332.2	LOC120961551	chymotrypsin-2-like	chymotrypsin-2-like|Peptidase S1 domain-containing protein
+ACON2_030729	XM_040381845.2	LOC120958818	uncharacterized LOC120958818	uncharacterized protein LOC120958818|Chitin-binding type-2 domain-containing protein
+ACON2_030760	XR_007453150.1	LOC125908033	large subunit ribosomal RNA	
+ACON2_030777	XM_040374907.2	jing	AE binding protein 2 jing	zinc finger protein jing homolog
+ACON2_030909	XM_040364527.2	LOC120948320	protein A16-like	protein A16-like|C-type lectin domain-containing protein
+ACON2_030929	XR_005751677.2	LOC120954304	small nucleolar RNA Me28S-Am2589	
+ACON2_030973	XR_007453250.1	LOC125908147	uncharacterized LOC125908147	
+ACON2_030996	XM_040364589.2	nAChRalpha6	nicotinic acetylcholine receptor alpha6	neuronal acetylcholine receptor subunit alpha-7|Nicotinic acetylcholine receptor alpha 6 subunit
+ACON2_030998	XR_007452880.1	LOC125907711	uncharacterized LOC125907711	
+ACON2_031019	XM_040370941.2	LOC120951930	trypsin-1-like	trypsin-1-like
+ACON2_031036	XM_040370290.2	LOC120951519	mitochondrial fission process protein 1	mitochondrial fission process protein 1
+ACON2_031041	XM_040377816.2	Tes	testin LIM domain protein	testin
+ACON2_031052	XM_040379261.2	LOC120957195	aromatic-L-amino-acid decarboxylase-like	aromatic-L-amino-acid decarboxylase-like
+ACON2_031058	XM_049609268.1	LOC125907391	uncharacterized LOC125907391	uncharacterized protein LOC125907391
+ACON2_031108	XM_049608731.1	LOC125907287	glycoprotein endo-alpha-1,2-mannosidase	glycoprotein endo-alpha-1,2-mannosidase|Glyco_18 domain-containing protein
+ACON2_031113	XM_040381692.2	LOC120958717	trans-1,2-dihydrobenzene-1,2-diol dehydrogenase-like	trans-1,2-dihydrobenzene-1,2-diol dehydrogenase-like|Dimeric dihydrodiol dehydrogenase
+ACON2_031117	XM_040369849.2	LOC120951254	heat shock protein 70 A1	heat shock protein 70 A1
+ACON2_031172	XM_040362422.2	LOC120947256	putative ribosome-binding factor A, mitochondrial	putative ribosome-binding factor A, mitochondrial
+ACON2_031198	XM_040368826.2	LOC120950634	wiskott-Aldrich syndrome protein family member 3	wiskott-Aldrich syndrome protein family member 3
+ACON2_031229	XM_040378221.2	LOC120956601	alpha-glucosidase-like	alpha-glucosidase-like
+ACON2_031239	XM_040363696.2	Klp67A	Kinesin-like protein at 67A	kinesin-like protein KIF18A|Kinesin motor domain-containing protein
+ACON2_031303	XM_040368977.2	LOC120950722	protein I'm not dead yet-like	protein I'm not dead yet-like|Na+/dicarboxylate na+/tricarboxylate and phosphate transporter
+ACON2_031342	XM_040380871.2	LOC120958230	uncharacterized LOC120958230	uncharacterized protein LOC120958230
+ACON2_031349	XR_007453326.1	LOC125908242	5.8S ribosomal RNA	
+ACON2_031351	XM_040364936.2	LOC120948517	mucin-12-like	mucin-12-like
+ACON2_031388	XM_049608109.1	Nep1	M13 family metallopeptidase neprilysin 1	neprilysin-1
+ACON2_031401	XR_007451857.1	LOC125906485	uncharacterized LOC125906485	
+ACON2_031438	XM_040371169.2	mud	mushroom body defect	centrosome-associated protein CEP250|Calponin-homology (CH) domain-containing protein|myosin-2|putative uncharacterized protein MYH16
+ACON2_031448	XR_007453201.1	LOC125908088	large subunit ribosomal RNA	
+ACON2_031494	XM_040375142.2	LOC120954863	multidrug resistance-associated protein 1-like	multidrug resistance-associated protein 1-like|P-loop containing nucleoside triphosphate hydrolase protein
+ACON2_031508	XM_040364085.2	LOC120948097	pheromone-binding protein-related protein 6-like	pheromone-binding protein-related protein 6-like|Odorant-binding protein
+ACON2_031523	XM_040370241.2	LOC120951481	beta-1,3-glucan-binding protein	beta-1,3-glucan-binding protein|GH16 domain-containing protein
+ACON2_031598	XM_049609115.1	Marf1	meiosis regulator and mRNA stability factor 1-like protein	meiosis regulator and mRNA stability factor 1
+ACON2_031604	XM_040372659.2	LOC120953010	pheromone-binding protein-related protein 6-like	pheromone-binding protein-related protein 6-like
+ACON2_031607	XM_040367015.2	LOC120949612	PDZ and LIM domain protein 7-like	PDZ and LIM domain protein 7-like|membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1-like
+ACON2_031617	XM_049605798.1	LOC125906541	uncharacterized LOC125906541	uncharacterized protein LOC125906541
+ACON2_031661	XM_040381954.2	LOC120958887	microfibril-associated glycoprotein 4	microfibril-associated glycoprotein 4
+ACON2_031666	XM_040382056.2	LOC120958961	sodium-coupled monocarboxylate transporter 1-like	sodium-coupled monocarboxylate transporter 1-like
+ACON2_031705	XM_040379398.2	Su(H)	recombining binding protein suppressor of hairless	recombining binding protein suppressor of hairless|Suppressor of hairless protein
+ACON2_031731	XM_040366431.2	LOC120949251	uncharacterized LOC120949251	uncharacterized protein LOC120949251|RING-type domain-containing protein
+ACON2_031778	XM_049609158.1	LOC120956364	bestrophin-4-like	bestrophin-4-like
+ACON2_031786	XM_040371632.2	LOC120952349	ficolin-1-like	ficolin-1-like
+ACON2_031813	XM_049606738.1	LOC120961011	putative fatty acyl-CoA reductase CG5065	putative fatty acyl-CoA reductase CG5065
+ACON2_031850	XR_007452545.1	LOC125907277	uncharacterized LOC125907277	
+ACON2_031856	XR_007452706.1	LOC125907489	uncharacterized LOC125907489	
+ACON2_031928	XM_040379259.2	Delta	neurogenic locus protein delta	neurogenic locus protein delta|Delta-like protein
+ACON2_031930	XM_040384269.2	Ipk1	Inositol phosphate kinase 1	inositol-pentakisphosphate 2-kinase
+ACON2_031957	XM_049610488.1	LOC125907542	uncharacterized LOC125907542	uncharacterized protein LOC125907542
+ACON2_031975	XM_040375694.2	aay	phosphoserine phosphatase	phosphoserine phosphatase
+ACON2_031978	XM_040377631.2	LOC120956256	uncharacterized LOC120956256	uncharacterized protein LOC120956256|SET and MYND domain-containing protein 4
+ACON2_031990	XM_049611178.1	LOC120961433	uncharacterized LOC120961433	uncharacterized protein LOC120961433
+ACON2_032013	XM_040369687.2	LOC120951142	alpha-amylase A-like	alpha-amylase A-like
+ACON2_032017	XM_040372715.2	LOC120953048	chorion peroxidase-like	chorion peroxidase-like
+ACON2_032027	XR_007452709.1	LOC125907491	uncharacterized LOC125907491	
+ACON2_032054	XM_040364843.2	LOC120948475	protein lethal(2)essential for life-like	protein lethal(2)essential for life-like
+ACON2_032058	XM_040377502.2	LOC120956123	uncharacterized LOC120956123	uncharacterized protein LOC120956123
+ACON2_032064	XM_040365754.2	Dgk	diacyl glycerol kinase 1	diacylglycerol kinase 1
+ACON2_032066	XM_049606860.1	LOC125906717	GILT-like protein 3	GILT-like protein 3
+ACON2_032091	XM_040381354.2	LOC120958502	histone H2A	histone H2A
+ACON2_032093	XR_007452755.1	LOC125907539	uncharacterized LOC125907539	
+ACON2_032102	XM_040366323.2	LOC120949202	enolase-phosphatase E1	enolase-phosphatase E1
+ACON2_032116	XM_040383715.2	LOC120959929	succinate dehydrogenase assembly factor 2, mitochondrial	succinate dehydrogenase assembly factor 2, mitochondrial
+ACON2_032117	XM_040372154.2	Pxt	chorion peroxidase	chorion peroxidase
+ACON2_032138	XR_007452775.1	LOC125907564	uncharacterized LOC125907564	
+ACON2_032143	XM_040371795.2	LOC120952466	uncharacterized LOC120952466	uncharacterized protein LOC120952466
+ACON2_032155	XM_040366072.2	LOC120949081	protein distal antenna-like	protein distal antenna-like|HTH psq-type domain-containing protein
+ACON2_032178	XM_049605909.1	LOC120948316	dendritic arbor reduction protein 1	dendritic arbor reduction protein 1
+ACON2_032221	XM_049608911.1	LOC120956216	uncharacterized LOC120956216	uncharacterized protein LOC120956216
+ACON2_032243	XM_040368399.2	LOC120950405	maternal effect protein oskar	maternal effect protein oskar
+ACON2_032265	XM_040382583.2	LOC120959296	fibrinogen C domain-containing protein 1-like	fibrinogen C domain-containing protein 1-like|Fibrinogen C-terminal domain-containing protein
+ACON2_032275	XM_049605630.1	LOC120950737	uncharacterized LOC120950737	uncharacterized protein LOC120950737|PDZ domain-containing protein
+ACON2_032315	XM_040365126.2	LOC120948599	opsin-2	opsin-2
+ACON2_032356	XM_040368869.2	LOC120950651	protein scarlet-like	protein scarlet-like|ABC transporter domain-containing protein
+ACON2_032358	XM_040372855.2	LOC120953143	uncharacterized LOC120953143	uncharacterized protein LOC120953143|Protein kinase domain-containing protein|serine/threonine-protein kinase nak1
+ACON2_032439	XM_040385414.2	Lrpprc2	Leucine-rich pentatricopeptide repeat containing 2	leucine-rich PPR motif-containing protein, mitochondrial|PPR_long domain-containing protein|Pentacotripeptide-repeat region of PRORP domain-containing protein
+ACON2_032469	XM_049608709.1	LOC120957692	alpha-L-iduronidase	alpha-L-iduronidase
+ACON2_032498	XM_040369530.2	Snmp1	sensory neuron membrane protein 1	sensory neuron membrane protein 1
+ACON2_032510	XM_040378204.2	LOC120956594	ATPase inhibitor A, mitochondrial	ATPase inhibitor A, mitochondrial
+ACON2_032572	XM_040368288.2	LOC120950328	cytochrome P450 6a2-like	cytochrome P450 6a2-like
+ACON2_032583	XM_049608861.1	LOC120958738	arginine kinase-like	arginine kinase-like|neurogenic locus notch homolog protein 4|uncharacterized protein LOC120958738
+ACON2_032595	XM_040384828.2	LOC120961148	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_032602	XM_040371417.2	LOC120952205	uncharacterized LOC120952205	uncharacterized protein LOC120952205
+ACON2_032610	XM_040369969.2	LOC120951314	alkaline phosphatase	alkaline phosphatase
+ACON2_032622	XM_040383954.2	LOC120960046	serum response factor homolog A-like	serum response factor homolog A-like
+ACON2_032628	XM_040385339.2	LOC120961555	headcase protein-like	headcase protein-like|Headcase middle domain-containing protein
+ACON2_032630	XM_040378667.2	LOC120956885	uncharacterized LOC120956885	uncharacterized protein LOC120956885
+ACON2_032636	XR_005751726.2	LOC120954734	uncharacterized LOC120954734	
+ACON2_032645	XM_040378350.2	Cyp6d4	Cytochrome P450 6d4	cytochrome P450 6d3
+ACON2_032680	XM_040383348.2	LOC120959729	luciferin sulfotransferase-like	luciferin sulfotransferase-like
+ACON2_032697	XM_040378116.2	LOC120956568	lamin Dm0-like	lamin Dm0-like
+ACON2_032714	XM_040366556.2	Vps16B	Vacuolar protein sorting 16B	vacuolar protein sorting-associated protein 16B|Vps16_C domain-containing protein
+ACON2_032719	XM_040375810.2	LOC120955197	uncharacterized LOC120955197	uncharacterized protein LOC120955197
+ACON2_032792	XM_040378043.2	slmo	PRELI domain containing slowmo	protein slowmo|PRELI/MSF1 domain-containing protein
+ACON2_032805	XM_040370760.2	Vti1b	Vesicle transport through interaction with t-SNAREs 1b	uncharacterized protein LOC120951815|t-SNARE coiled-coil homology domain-containing protein
+ACON2_032827	XM_049605373.1	LOC120947391	uncharacterized LOC120947391	uncharacterized protein LOC120947391|PH domain-containing protein
+ACON2_032841	XM_049611189.1	LOC125908428	DE-cadherin-like	DE-cadherin-like
+ACON2_032868	XM_040382497.2	Cbp53E	Calbindin 53E	calbindin-32
+ACON2_032876	XM_040377882.2	LOC120956424	glutaryl-CoA dehydrogenase, mitochondrial	glutaryl-CoA dehydrogenase, mitochondrial
+ACON2_032881	XM_040370313.2	LOC120951538	adipocyte plasma membrane-associated protein Hemomucin-like	adipocyte plasma membrane-associated protein Hemomucin-like|Str_synth domain-containing protein
+ACON2_032892	XM_040366118.2	LOC120949105	mitochondrial inner membrane protease subunit 1	mitochondrial inner membrane protease subunit 1
+ACON2_032934	XM_040379553.2	LOC120957367	uncharacterized LOC120957367	uncharacterized protein LOC120957367
+ACON2_032999	XM_040366373.2	AcCoAS	acetyl coenzyme A synthase	acetyl-coenzyme A synthetase
+ACON2_033019	XM_040367807.2	LOC120950069	uncharacterized LOC120950069	uncharacterized protein LOC120950069
+ACON2_033020	XR_007452770.1	LOC125907554	uncharacterized LOC125907554	
+ACON2_033024	XM_040381824.2	LOC120958809	lipopolysaccharide-induced tumor necrosis factor-alpha factor homolog	lipopolysaccharide-induced tumor necrosis factor-alpha factor homolog|LITAF domain-containing protein
+ACON2_033053	XM_040363679.2	LOC120947874	uncharacterized LOC120947874	uncharacterized protein LOC120947874|PH domain-containing protein
+ACON2_033055	XM_040372252.2	LOC120952763	uncharacterized LOC120952763	uncharacterized protein LOC120952763
+ACON2_033058	XM_049605691.1	Root	ciliary rootlet coiled-coil, rootletin	rootletin
+ACON2_033069	XM_040377195.2	LOC120955936	uncharacterized LOC120955936	uncharacterized protein LOC120955936
+ACON2_033084	XM_040369439.2	meru	ras association domain-containing protein meru	uncharacterized protein LOC120950986
+ACON2_033100	XM_040366815.2	LOC120949487	uncharacterized LOC120949487	uncharacterized protein LOC120949487
+ACON2_033118	XM_040384572.2	LOC120961019	uncharacterized LOC120961019	uncharacterized protein LOC120961019
+ACON2_033121	XM_040385678.2	LOC120961699	uncharacterized LOC120961699	uncharacterized protein LOC120961699
+ACON2_033128	XM_040377002.2	SmydA-8	SET and MYND domain containing, arthropod-specific, member 8	SET domain-containing protein SmydA-8
+ACON2_033142	XM_049610139.1	LOC125907503	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_033164	XM_040376797.2	LOC120955705	uncharacterized LOC120955705	uncharacterized protein LOC120955705
+ACON2_033214	XR_007452865.1	LOC125907696	large subunit ribosomal RNA	
+ACON2_033228	XM_040383284.2	LOC120959695	borealin-like	borealin-like
+ACON2_033249	XM_040383346.2	LOC120959728	sulfotransferase 1B1-like	luciferin sulfotransferase-like
+ACON2_033253	XM_040380417.2	LOC120957942	antigen 5 like allergen Cul n 1-like	antigen 5 like allergen Cul n 1-like|SCP domain-containing protein
+ACON2_033265	XM_040363562.2	wake	ankyrin repeat and fibronectin type III domain containing protein wide awake	uncharacterized protein LOC120947817
+ACON2_033287	XM_049610169.1	LOC120959730	luciferin sulfotransferase-like	luciferin sulfotransferase-like
+ACON2_033306	XM_040377722.2	LOC120956340	protein regulator of cytokinesis 1-like	protein regulator of cytokinesis 1-like
+ACON2_033317	XM_040382352.2	Gyc32E	Guanylyl cyclase at 32E	guanylate cyclase 32E
+ACON2_033318	XM_040364981.2	LOC120948542	uncharacterized LOC120948542	uncharacterized protein LOC120948542|Transmembrane protein 192
+ACON2_033343	XM_040367779.2	LOC120950040	uncharacterized LOC120950040	uncharacterized protein LOC120950040|MARVEL domain-containing protein
+ACON2_033354	XM_040384100.2	LOC120960127	POU domain, class 6, transcription factor 2-like	POU domain, class 6, transcription factor 2-like
+ACON2_033361	XR_005751886.2	LOC120956993	uncharacterized LOC120956993	
+ACON2_033411	XM_040372152.2	LOC120952691	probable cytochrome P450 9f2	probable cytochrome P450 9f2|Cytochrome P450
+ACON2_033419	XM_040382648.2	LOC120959342	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_033420	XM_040370015.2	LOC120951348	antichymotrypsin-2-like	antichymotrypsin-2-like
+ACON2_033484	XM_049610963.1	LOC120951196	translational regulator orb2-like	translational regulator orb2-like|uncharacterized protein LOC120951196
+ACON2_033530	XM_040381285.2	LOC120958453	uncharacterized LOC120958453	uncharacterized protein LOC120958453|odorant binding protein Obp57
+ACON2_033558	XM_040368642.2	ninaG	neither inactivation nor afterpotential protein G	neither inactivation nor afterpotential protein G
+ACON2_033613	XM_040383273.2	LOC120959681	peptide methionine sulfoxide reductase	peptide methionine sulfoxide reductase|Peptide-methionine (S)-S-oxide reductase
+ACON2_033614	XM_040365773.2	LOC120948917	coenzyme Q-binding protein COQ10, mitochondrial	coenzyme Q-binding protein COQ10, mitochondrial|Coenzyme Q-binding protein COQ10 START domain-containing protein
+ACON2_033616	XM_040381576.2	LOC120958636	uncharacterized LOC120958636	uncharacterized protein LOC120958636
+ACON2_033625	XM_040382622.2	LOC120959325	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_033639	XM_040363400.2	LOC120947757	beta-alanine transporter	beta-alanine transporter
+ACON2_033684	XM_040377670.2	LOC120956287	uncharacterized LOC120956287	uncharacterized protein LOC120956287
+ACON2_033686	XM_040379598.2	LOC120957398	prostaglandin E synthase-like	prostaglandin E synthase-like
+ACON2_033690	XM_040382660.2	LOC120959354	E3 ubiquitin-protein ligase makorin-2-like	E3 ubiquitin-protein ligase makorin-2-like
+ACON2_033708	XM_049606955.1	LOC120951994	uncharacterized LOC120951994	uncharacterized protein LOC120951994
+ACON2_033826	XM_040381907.2	LOC120958849	ecdysone receptor	ecdysone receptor
+ACON2_033842	XM_040377127.2	Spred	Sprouty-related protein with EVH-1 domain	sprouty-related, EVH1 domain-containing protein 1|sprouty-related, EVH1 domain-containing protein 2|sprouty-related, EVH1 domain-containing protein 3
+ACON2_033844	XM_040370044.2	LOC120951369	uncharacterized LOC120951369	uncharacterized protein LOC120951369|ionotropic receptor Ir7w
+ACON2_033887	XR_007452827.1	LOC125907652	large subunit ribosomal RNA	
+ACON2_033909	XM_049608910.1	LOC125907306	uncharacterized LOC125907306	uncharacterized protein LOC125907306
+ACON2_033913	XM_040379780.2	LOC120957528	uncharacterized LOC120957528	uncharacterized protein LOC120957528|Protein TsetseEP domain-containing protein
+ACON2_033934	XM_040381355.2	Orc6	origin recognition complex subunit 6	origin recognition complex subunit 6|Nop domain-containing protein
+ACON2_033935	XM_040379475.2	Kpc1	Kip1 ubiquitination-promoting complex subunit 1	E3 ubiquitin-protein ligase RNF123
+ACON2_033953	XM_049608734.1	LOC120959413	uncharacterized LOC120959413	uncharacterized protein LOC120959413
+ACON2_033984	XM_049611006.1	LOC125908313	uncharacterized LOC125908313	uncharacterized protein LOC125908313
+ACON2_034005	XM_040367390.2	LOC120949836	autotransporter adhesin BpaC-like	autotransporter adhesin BpaC-like
+ACON2_034031	XM_040372162.2	blow	PH domain-containing protein blown fuse	uncharacterized protein LOC120952700|PH domain-containing protein
+ACON2_034034	XM_040381024.2	NaPi-T	Na[+]-dependent inorganic phosphate cotransporter	sialin|vesicular glutamate transporter 2
+ACON2_034039	XR_007453130.1	LOC125908011	large subunit ribosomal RNA	
+ACON2_034062	XM_040365203.2	spn-A	RAD51 recombinase homolog spn-A	DNA repair protein RAD51 homolog A
+ACON2_034081	XR_007452093.1	LOC125906743	uncharacterized LOC125906743	
+ACON2_034099	XM_040370259.2	LOC120951495	uncharacterized LOC120951495	uncharacterized protein LOC120951495|DUF4766 domain-containing protein|Secreted mucin
+ACON2_034119	XM_040377440.2	LOC120956058	uncharacterized LOC120956058	uncharacterized protein LOC120956058|Secreted protein
+ACON2_034141	XM_040378773.2	LOC120959656	uncharacterized LOC120959656	uncharacterized protein LOC120959656
+ACON2_034151	XM_040377935.2	LOC120956458	uncharacterized LOC120956458	uncharacterized protein LOC120956458
+ACON2_034160	XM_049610305.1	LOC120959395	parkin coregulated gene protein homolog	parkin coregulated gene protein homolog
+ACON2_034195	XM_040367421.2	NT1	Neurotrophin 1	neurotrophin 1
+ACON2_034218	XM_040382586.2	LOC120959298	fibrinogen-like protein A	fibrinogen-like protein A
+ACON2_034224	XM_049607230.1	LOC125906786	uncharacterized LOC125906786	uncharacterized protein LOC125906786
+ACON2_034246	XM_040368877.2	LOC120950658	putative tyramine receptor 2	putative tyramine receptor 2
+ACON2_034255	XM_040381200.2	Oatp26F	Organic anion transporting polypeptide 26F	solute carrier organic anion transporter family member 4A1
+ACON2_034280	XR_007452548.1	LOC120956697	uncharacterized LOC120956697	
+ACON2_034292	XM_040378302.2	Bgb	core-binding factor subunit big brother	protein big brother
+ACON2_034358	XM_040381048.2	LOC120958333	protein midgut expression 1-like	protein midgut expression 1-like
+ACON2_034366	XM_040366557.2	Alg2	alpha-1,3/1,6-mannosyltransferase Alg2	alpha-1,3/1,6-mannosyltransferase ALG2
+ACON2_034372	XM_040376845.2	LOC120955734	ribitol 5-phosphate transferase FKRP	ribitol 5-phosphate transferase FKRP|fukutin-related protein
+ACON2_034401	XM_049607469.1	LOC120951425	U-scoloptoxin(19)-Sm1a	U-scoloptoxin(19)-Sm1a|WAP domain-containing protein
+ACON2_034418	XM_049605634.1	LOC125906527	uncharacterized LOC125906527	uncharacterized protein LOC125906527
+ACON2_034486	XM_040369800.2	LOC120951217	innexin inx4-like	innexin inx4-like
+ACON2_034506	XM_040382095.2	LOC120958992	uncharacterized LOC120958992	uncharacterized protein LOC120958992
+ACON2_034531	XM_040366982.2	LOC120949588	uncharacterized LOC120949588	uncharacterized protein LOC120949588
+ACON2_034537	XM_049605548.1	LOC120951655	DNA repair protein complementing XP-C cells homolog	DNA repair protein complementing XP-C cells homolog
+ACON2_034591	XM_040374699.2	chp	leucine rich repeat containing G protein-coupled receptor chaoptin	chaoptin
+ACON2_034599	XM_040379422.2	LOC120957297	5-hydroxytryptamine receptor-like	5-hydroxytryptamine receptor-like
+ACON2_034621	XM_049606066.1	LOC125906577	uncharacterized LOC125906577	uncharacterized protein LOC125906577
+ACON2_034665	XM_040377792.2	LOC120956377	phenoloxidase-activating factor 3-like	phenoloxidase-activating factor 3-like|Peptidase S1 domain-containing protein
+ACON2_034686	XM_040383721.2	LOC120959931	general odorant-binding protein lush-like	general odorant-binding protein lush-like|Odorant-binding protein 5
+ACON2_034694	XR_007453274.1	LOC125908173	large subunit ribosomal RNA	
+ACON2_034732	XM_040372661.2	LOC120953013	membrane-bound alkaline phosphatase-like	membrane-bound alkaline phosphatase-like|Alkaline phosphatase
+ACON2_034755	XM_040363092.2	Acph-1	Acid phosphatase 1	prostatic acid phosphatase
+ACON2_034767	XM_040365939.2	LOC120949011	RING finger protein 141-like	RING finger protein 141-like
+ACON2_034780	XM_040366436.2	LOC120949245	protein Mo25	protein Mo25
+ACON2_034783	XM_040363488.2	LOC120947786	lysozyme c-1	lysozyme c-1
+ACON2_034793	XM_040381623.2	LOC120958668	uncharacterized LOC120958668	uncharacterized protein LOC120958668|endochitinase A
+ACON2_034816	XM_049605095.1	LOC120952178	homeobox protein unc-42	homeobox protein unc-42|pituitary homeobox 2
+ACON2_034928	XM_040363065.2	CycB3	cyclin B3	uncharacterized protein LOC120947604|G2/mitotic-specific cyclin-B3
+ACON2_034979	XM_040384308.2	LOC120960236	protein CFAP276	protein CFAP276|protein C1orf194
+ACON2_034988	XM_040367053.2	LOC120949634	CLIP domain-containing serine protease B9	CLIP domain-containing serine protease B9
+ACON2_035073	XR_007452003.1	LOC125906634	uncharacterized LOC125906634	
+ACON2_035083	XM_040363644.2	Mtl	Rac family small GTPase Mtl	ras-related C3 botulinum toxin substrate 1
+ACON2_035087	XM_040381277.2	LOC120958447	defensin	defensin|INVERT_DEFENSINS domain-containing protein
+ACON2_035167	XM_049606507.1	LOC125906670	uncharacterized LOC125906670	uncharacterized protein LOC125906670
+ACON2_035174	XM_040377901.2	GrlHz	Gustatory receptor-like Holozoa	uncharacterized protein LOC120956433
+ACON2_035177	XM_040381641.2	LOC120958682	uncharacterized LOC120958682	uncharacterized protein LOC120958682
+ACON2_035184	XM_040378617.2	LOC120956845	sodium-dependent proline transporter	sodium-dependent proline transporter
+ACON2_035195	XM_040385054.2	LOC120961345	chymotrypsin-2-like	chymotrypsin-2-like|Peptidase S1 domain-containing protein
+ACON2_035226	XM_040362417.2	LOC120947252	facilitated trehalose transporter Tret1-like	facilitated trehalose transporter Tret1-like|MFS domain-containing protein
+ACON2_035237	XR_007453060.1	LOC125907922	large subunit ribosomal RNA	
+ACON2_035238	XM_049610952.1	LOC125908298	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like|uncharacterized protein LOC125908298
+ACON2_035256	XM_040371348.2	LOC120952169	nose resistant to fluoxetine protein 6-like	nose resistant to fluoxetine protein 6-like|Acyl_transf_3 domain-containing protein
+ACON2_035264	XM_040374490.2	shd	cytochrome P450 family 24 subfamily A member shade	ecdysone 20-monooxygenase
+ACON2_035281	XM_040375356.2	FoxP	forkhead box transcription factor P	forkhead box protein I1c|forkhead box P|forkhead box protein P1-B
+ACON2_035311	XM_040374077.2	LOC120953813	xanthine dehydrogenase/oxidase-like	xanthine dehydrogenase/oxidase-like
+ACON2_035344	XM_040363923.2	LOC120947991	RING-box protein 1A	RING-box protein 1A|RING-type domain-containing protein
+ACON2_035359	XM_040369665.2	LOC120951128	uncharacterized LOC120951128	uncharacterized protein LOC120951128
+ACON2_035364	XM_040382624.2	LOC120959327	uncharacterized LOC120959327	uncharacterized protein LOC120959327
+ACON2_035415	XM_040369322.2	LOC120950904	uncharacterized LOC120950904	uncharacterized protein LOC120950904
+ACON2_035448	XM_040364190.2	Culd	CUB and LDLa domain	uncharacterized protein LOC120948155
+ACON2_035473	XM_040380196.2	LOC120957821	uncharacterized LOC120957821	uncharacterized protein LOC120957821
+ACON2_035477	XM_040383117.2	LOC120959615	SUMO-conjugating enzyme UBC9-A	SUMO-conjugating enzyme UBC9-A
+ACON2_035502	XM_040382199.2	LOC120959057	caspase-1-like	caspase-1-like
+ACON2_035507	XM_040382543.2	LOC120959266	SET and MYND domain-containing protein 4-like	SET and MYND domain-containing protein 4-like
+ACON2_035517	XM_040374121.2	LOC120953829	ATP-dependent DNA helicase DDX11	ATP-dependent DNA helicase DDX11|DNA helicase
+ACON2_035629	XM_040380811.2	LOC120958185	ornithine decarboxylase 1-like	ornithine decarboxylase 1-like
+ACON2_035654	XM_040377671.2	LOC120956288	uncharacterized LOC120956288	uncharacterized protein LOC120956288
+ACON2_035692	XM_040367063.2	LOC120949639	uncharacterized LOC120949639	uncharacterized protein LOC120949639|MD-2-related lipid-recognition domain-containing protein
+ACON2_035754	XM_040381092.2	LOC120958356	protein-glucosylgalactosylhydroxylysine glucosidase-like	protein-glucosylgalactosylhydroxylysine glucosidase-like|Glyco_hydro_65m domain-containing protein
+ACON2_035765	XR_007451979.1	LOC125906620	uncharacterized LOC125906620	
+ACON2_035772	XM_040371925.2	LOC120952538	uncharacterized LOC120952538	uncharacterized protein LOC120952538|PDZ domain-containing protein
+ACON2_035875	XM_040367284.2	LOC120949780	sugar transporter SWEET1-like	sugar transporter SWEET1-like
+ACON2_035882	XM_040368400.2	LOC120950406	abasic site processing protein HMCES	abasic site processing protein HMCES
+ACON2_035906	XM_040372125.2	NaCP60E	Na channel protein 60E	sodium channel protein 60E
+ACON2_035913	XM_040367564.2	mtg	mind the gap	proteoglycan 4|Chitin-binding type-2 domain-containing protein|uncharacterized protein LOC120949926
+ACON2_035917	XM_040382212.2	Eip75B	Ecdysone-induced protein 75B	ecdysone-induced protein 75B, isoforms C/D
+ACON2_035923	XM_040379658.2	LOC120957444	uncharacterized LOC120957444	uncharacterized protein LOC120957444
+ACON2_035925	XM_040371847.2	LOC120952491	uncharacterized LOC120952491	uncharacterized protein LOC120952491
+ACON2_035953	XM_040373145.2	LOC120953322	protein catecholamines up-like	DENN domain-containing protein Crag-like|uncharacterized protein LOC120953322
+ACON2_035978	XM_040385483.2	Edc3	enhancer of mRNA-decapping protein 3	enhancer of mRNA-decapping protein 3
+ACON2_036033	XM_049609124.1	LOC120956359	potassium voltage-gated channel protein Shaw-like	potassium voltage-gated channel protein Shaw-like
+ACON2_036042	XM_040382558.2	LOC120959279	uncharacterized LOC120959279	uncharacterized protein LOC120959279|Peptidase S1 domain-containing protein
+ACON2_036069	XM_040366724.2	LOC120949426	protein henna	protein henna|Phenylalanine 4-monooxygenase
+ACON2_036093	XM_040376571.2	LOC120955575	sin3 histone deacetylase corepressor complex component SDS3-like	sin3 histone deacetylase corepressor complex component SDS3-like
+ACON2_036100	XM_040371335.2	Rpt4	Regulatory particle triple-A ATPase 4	26S proteasome regulatory subunit 10B|AAA domain-containing protein
+ACON2_036151	XM_040371585.2	LOC120952311	uncharacterized LOC120952311	uncharacterized protein LOC120952311|EF-hand domain-containing protein
+ACON2_036182	XM_040362614.2	LOC120947360	vesicular acetylcholine transporter-like	choline O-acetyltransferase-like
+ACON2_036201	XM_040366887.2	LOC120949531	lipase 3-like	lipase 3-like
+ACON2_036226	XM_040373317.2	nanos	RNA-binding protein nanos	uncharacterized protein LOC120953417|Nanos-type domain-containing protein
+ACON2_036232	XM_040371669.2	Reg-2	Rhythmically expressed gene 2	rhythmically expressed gene 2 protein
+ACON2_036259	XM_040383887.2	LOC120960023	facilitated trehalose transporter Tret1-like	facilitated trehalose transporter Tret1-like
+ACON2_036264	XR_007451989.1	LOC120956107	uncharacterized LOC120956107	
+ACON2_036273	XM_040371610.2	LOC120952331	zinc finger protein 135-like	zinc finger protein 135-like
+ACON2_036278	XM_040382440.2	LOC120959202	facilitated trehalose transporter Tret1-like	facilitated trehalose transporter Tret1-like|MFS domain-containing protein
+ACON2_036283	XM_040375806.2	Oseg4	intraflagellar transport protein Oseg4	WD repeat-containing protein 35
+ACON2_036343	XM_040381614.2	Pen	karyopherin subunit alpha	importin subunit alpha
+ACON2_036363	XM_040365895.2	LOC120948984	uncharacterized LOC120948984	uncharacterized protein LOC120948984
+ACON2_036370	XM_049610853.1	LOC125908041	putative uncharacterized protein DDB_G0271606	putative uncharacterized protein DDB_G0271606
+ACON2_036390	XR_007452153.1	LOC125906802	uncharacterized LOC125906802	
+ACON2_036431	XM_040383353.2	LOC120959733	luciferin sulfotransferase-like	luciferin sulfotransferase-like
+ACON2_036432	XM_040371579.2	DNApol-theta	DNA polymerase theta	DNA polymerase theta
+ACON2_036447	XM_040367399.2	LOC120949841	trypsin 5G1-like	trypsin 5G1-like
+ACON2_036449	XM_049607035.1	LOC125906737	uncharacterized LOC125906737	uncharacterized protein LOC125906737
+ACON2_036456	XM_040380127.2	LOC120957774	histone H1-like	histone H1-like
+ACON2_036526	XM_049605406.1	LOC120953644	homeobox protein PKNOX2-like	homeobox protein PKNOX2-like|Homeobox domain-containing protein
+ACON2_036566	XR_007452974.1	LOC125907816	large subunit ribosomal RNA	
+ACON2_036609	XM_040367783.2	Gk2	Glycerol kinase 2	glycerol kinase
+ACON2_036629	XM_040374701.2	LOC120954618	brachyurin-like	brachyurin-like|Peptidase S1 domain-containing protein
+ACON2_036630	XM_040374629.2	LOC120954237	frizzled-3	frizzled-3
+ACON2_036642	XR_007452898.1	LOC125907729	large subunit ribosomal RNA	
+ACON2_036719	XM_040382090.2	Lint-O	L(3)mbt interactor in ovarian somatic cells	scm-like with four MBT domains protein 1|SAM domain-containing protein
+ACON2_036729	XM_049608496.1	kek2	leucine-rich repeat, immunoglobulin-like domain-containing kekkon 2 protein	uncharacterized protein LOC120957291
+ACON2_036739	XM_049607098.1	LOC125906747	transient receptor potential cation channel protein painless-like	transient receptor potential cation channel protein painless-like
+ACON2_036753	XM_040381000.2	LOC120958301	uncharacterized LOC120958301	uncharacterized protein LOC120958301
+ACON2_036784	XM_040378871.2	LOC120956985	mucin-5AC-like	mucin-5AC-like|Calponin-homology (CH) domain-containing protein
+ACON2_036830	XM_049611012.1	LOC120956093	uncharacterized LOC120956093	uncharacterized protein LOC120956093
+ACON2_036845	XM_040367329.2	ssp6	short spindle 6	uncharacterized protein LOC120949803|PDZ domain-containing protein
+ACON2_036889	XM_040367722.2	LOC120950014	histone H3.3A	histone H3.3A
+ACON2_036891	XM_040369232.2	LOC120950862	dynein beta chain, ciliary-like	dynein beta chain, ciliary-like
+ACON2_036907	XR_007453238.1	LOC125908133	large subunit ribosomal RNA	
+ACON2_036924	XM_040376310.2	LOC120955437	major facilitator superfamily domain-containing protein 12-like	major facilitator superfamily domain-containing protein 12-like|Sugar transporter
+ACON2_036931	XM_040385319.2	LOC120961536	alpha-tocopherol transfer protein-like	alpha-tocopherol transfer protein-like
+ACON2_037013	XM_040380606.2	LOC120958057	extracellular matrix-binding protein EbhA-like	extracellular matrix-binding protein EbhA-like
+ACON2_037031	XR_007451985.1	LOC120958278	uncharacterized LOC120958278	
+ACON2_037034	XM_049607231.1	LOC125906787	uncharacterized LOC125906787	uncharacterized protein LOC125906787
+ACON2_037040	XM_040378502.2	LOC120956777	juvenile hormone epoxide hydrolase 1-like	juvenile hormone epoxide hydrolase 1-like|Epoxide hydrolase
+ACON2_037072	XM_040374551.2	LOC120954021	probable phosphoserine aminotransferase	probable phosphoserine aminotransferase|Phosphoserine aminotransferase
+ACON2_037111	XM_049609039.1	LOC120957531	putative eggshell protein	putative eggshell protein
+ACON2_037184	XM_040382388.2	Cks30A	Cyclin-dependent kinase subunit 30A	cyclin-dependent kinases regulatory subunit
+ACON2_037195	XM_040367426.2	LOC120949860	coagulation factor X-like	coagulation factor X-like|uncharacterized protein LOC120949860
+ACON2_037247	XM_040368091.2	LOC120950227	troponin C, isoallergen Bla g 6.0101-like	troponin C, isoallergen Bla g 6.0101-like
+ACON2_037261	XR_007452912.1	LOC125907742	large subunit ribosomal RNA	
+ACON2_037278	XM_040381683.2	LOC120958708	uncharacterized LOC120958708	uncharacterized protein LOC120958708
+ACON2_037281	XM_040372576.2	Osi8	Osiris 8	uncharacterized protein LOC120952966|Protein osiris 8
+ACON2_037284	XM_049605396.1	LOC120950249	uncharacterized LOC120950249	uncharacterized protein LOC120950249|Protein kinase domain-containing protein
+ACON2_037330	XM_049609129.1	LOC125907377	uncharacterized LOC125907377	uncharacterized protein LOC125907377
+ACON2_037368	XR_007451855.1	LOC125906484	uncharacterized LOC125906484	
+ACON2_037391	XR_007451890.1	LOC125906512	uncharacterized LOC125906512	
+ACON2_037417	XM_040378656.2	LOC120956878	glutathione S-transferase 1-like	glutathione S-transferase 1-like|glutathione transferase
+ACON2_037437	XR_007452250.1	LOC125906915	uncharacterized LOC125906915	
+ACON2_037460	XM_040365953.2	alpha-Man-Ia	alpha-Mannosidase class I a	mannosyl-oligosaccharide alpha-1,2-mannosidase IA|alpha-1,2-Mannosidase
+ACON2_037475	XM_040381220.2	LOC120958422	alpha-tocopherol transfer protein-like	alpha-tocopherol transfer protein-like
+ACON2_037569	XM_040370887.2	Mcm7	minichromosome maintenance 7	DNA replication licensing factor Mcm7
+ACON2_037574	XM_040376752.2	LOC120955671	uncharacterized LOC120955671	uncharacterized protein LOC120955671|Membrane-associated protein
+ACON2_037585	XR_007452809.1	LOC125907629	large subunit ribosomal RNA	
+ACON2_037589	XM_040364516.2	LOC120948313	basement membrane-specific heparan sulfate proteoglycan core protein-like	basement membrane-specific heparan sulfate proteoglycan core protein-like
+ACON2_037632	XR_007453021.1	LOC125907878	large subunit ribosomal RNA	
+ACON2_037642	XM_040375629.2	LOC120955107	POC1 centriolar protein homolog	POC1 centriolar protein homolog
+ACON2_037649	XM_049608925.1	LOC125907316	uncharacterized LOC125907316	uncharacterized protein LOC125907316
+ACON2_037665	XM_040379186.2	LOC120957143	sodium/potassium/calcium exchanger 3-like	sodium/potassium/calcium exchanger 3-like|Sodium/calcium exchanger membrane region domain-containing protein
+ACON2_037729	XM_049609020.1	LOC120961213	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_037732	XM_040385409.2	Xport-A	exit protein of rhodopsin and TRP A	uncharacterized protein LOC120961591|RR_TM4-6 domain-containing protein
+ACON2_037748	XM_049609027.1	LOC120956322	uncharacterized LOC120956322	uncharacterized protein LOC120956322
+ACON2_037759	XM_040364904.2	Snrk	SNF related kinase	serine/threonine kinase SAD-1|Protein kinase domain-containing protein
+ACON2_037763	XR_007452137.1	LOC120959334	uncharacterized LOC120959334	
+ACON2_037799	XM_040365934.2	LOC120949010	mucin-22	mucin-22|mucin-5AC
+ACON2_037882	XM_040373335.2	LOC120953426	small ubiquitin-related modifier 2-like	small ubiquitin-related modifier 2-like
+ACON2_037929	XM_049610759.1	LOC125907576	uncharacterized LOC125907576	uncharacterized protein LOC125907576
+ACON2_037957	XM_040372258.2	LOC120952770	uncharacterized LOC120952770	uncharacterized protein LOC120952770
+ACON2_037984	XM_040375985.2	Incenp	Inner centromere protein	uncharacterized protein LOC120955270|eukaryotic translation initiation factor 4 gamma
+ACON2_038008	XM_049609432.1	LOC125907432	angiopoietin-related protein 7-like	angiopoietin-related protein 7-like
+ACON2_038010	XM_040384105.2	LOC120960130	enhancer of split m7 protein-like	enhancer of split m7 protein-like|Enhancer of split mbeta protein
+ACON2_038025	XM_049605245.1	LOC125906440	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_038032	XR_007453319.1	LOC125908234	large subunit ribosomal RNA	
+ACON2_038064	XM_040379614.2	LOC120957410	uncharacterized LOC120957410	uncharacterized protein LOC120957410
+ACON2_038074	XM_049611103.1	LOC125908379	uncharacterized LOC125908379	uncharacterized protein LOC125908379
+ACON2_038109	XM_040381767.2	mTerf3	mitochondrial transcription termination factor 3	transcription termination factor 3, mitochondrial
+ACON2_038157	XR_007452676.1	LOC125907460	uncharacterized LOC125907460	
+ACON2_038184	XM_040379694.2	LOC120957474	transcription factor SOX-3-like	transcription factor SOX-3-like
+ACON2_038209	XM_040376326.2	Smyd4-3	SET and MYND domain containing, class 4, member 3	SET and MYND domain-containing protein 4
+ACON2_038214	XM_049609632.1	LOC125907440	nucleomorphin-like	nucleomorphin-like
+ACON2_038233	XM_040367837.2	LOC120950085	histone H3	histone H3
+ACON2_038260	XM_049605535.1	LOC120952987	uncharacterized LOC120952987	uncharacterized protein LOC120952987
+ACON2_038266	XM_040365663.2	LOC120948867	uncharacterized LOC120948867	uncharacterized protein LOC120948867
+ACON2_038267	XM_049611127.1	LOC125908398	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_038291	XM_049611091.1	LOC125908371	uncharacterized LOC125908371	uncharacterized protein LOC125908371
+ACON2_038310	XM_040382126.2	LOC120959011	death-associated inhibitor of apoptosis 2-like	death-associated inhibitor of apoptosis 2-like
+ACON2_038336	XM_040383087.2	LOC120959593	angiopoietin-related protein 7-like	angiopoietin-related protein 7-like
+ACON2_038369	XM_040380843.2	LOC120958209	retinol-binding protein pinta-like	retinol-binding protein pinta-like|CRAL-TRIO domain-containing protein
+ACON2_038402	XM_040373109.2	LOC120953303	maternal protein exuperantia-like	maternal protein exuperantia-like|SAM_Exu domain-containing protein
+ACON2_038416	XM_040378798.2	yl	Putative vitellogenin receptor yl	putative vitellogenin receptor
+ACON2_038423	XR_005752321.2	LOC120960266	U2 spliceosomal RNA	
+ACON2_038448	XM_040369829.2	LOC120951237	G2/mitotic-specific cyclin-B-like	G2/mitotic-specific cyclin-B-like|Cyclin N-terminal domain-containing protein
+ACON2_038482	XR_007452631.1	LOC125907428	uncharacterized LOC125907428	
+ACON2_038518	XM_049605635.1	LOC120952105	uncharacterized LOC120952105	uncharacterized protein LOC120952105
+ACON2_038531	XM_049608380.1	LOC125907239	uncharacterized LOC125907239	uncharacterized protein LOC125907239
+ACON2_038541	XM_040370898.2	LOC120951898	uncharacterized LOC120951898	uncharacterized protein LOC120951898
+ACON2_038552	XM_040365134.2	LOC120948606	uncharacterized LOC120948606	uncharacterized protein LOC120948606|Retrotransposon gag domain-containing protein
+ACON2_038596	XM_049610073.1	LOC120959073	uncharacterized LOC120959073	uncharacterized protein LOC120959073
+ACON2_038614	XM_049609407.1	LOC125907425	uncharacterized LOC125907425	uncharacterized protein LOC125907425
+ACON2_038621	XM_040367661.2	LOC120949984	serine protease grass	serine protease grass
+ACON2_038633	XR_007452653.1	LOC125907447	uncharacterized LOC125907447	
+ACON2_038638	XM_040371127.2	Mos	proto-oncogene serine/threonine-protein kinase mos	dual specificity protein kinase zak2|Protein kinase domain-containing protein
+ACON2_038674	XM_040381577.2	LOC120958637	serine protease inhibitor Kazal-type 1-like	serine protease inhibitor Kazal-type 1-like|Kazal-like domain-containing protein
+ACON2_038680	XM_040363560.2	LOC120947814	mitochondrial import inner membrane translocase subunit Tim13	mitochondrial import inner membrane translocase subunit Tim13
+ACON2_038698	XR_005752019.2	LOC120958240	uncharacterized LOC120958240	
+ACON2_038738	XM_040375300.2	LOC120954940	G1/S-specific cyclin-E	G1/S-specific cyclin-E|Cyclin N-terminal domain-containing protein
+ACON2_038771	XM_040378482.2	ND-MNLL	NADH dehydrogenase (ubiquinone) MNLL subunit	NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 1
+ACON2_038787	XM_040385157.2	LOC120961441	zinc finger protein 260-like	zinc finger protein 260-like|zinc finger protein 271-like|zinc finger protein 723-like|zinc finger protein ZFP2-like
+ACON2_038788	XM_040364528.2	LOC120948321	protein A16	protein A16|C-type lectin domain-containing protein
+ACON2_038870	XM_040366057.2	LOC120949073	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_038914	XM_040379170.2	LOC120957123	proton-coupled amino acid transporter 2-like	proton-coupled amino acid transporter 2-like|Aa_trans domain-containing protein
+ACON2_038929	XM_049610470.1	fbp	fructose-1,6-bisphosphatase	fructose-1,6-bisphosphatase 1|Fructose-bisphosphatase
+ACON2_038943	XM_040375788.2	Aasdh	Aminoadipate-semialdehyde dehydrogenase	beta-alanine-activating enzyme|AMP-dependent synthetase/ligase domain-containing protein
+ACON2_039005	XR_007453140.1	LOC125908022	large subunit ribosomal RNA	
+ACON2_039010	XM_040382108.2	LOC120958997	sodium-dependent nutrient amino acid transporter 1-like	sodium-dependent nutrient amino acid transporter 1-like
+ACON2_039033	XM_040369500.2	LOC120951025	sorbitol dehydrogenase-like	sorbitol dehydrogenase-like
+ACON2_039034	XM_049611048.1	LOC125908340	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_039069	XM_040363842.2	LOC120947958	protein pygopus	protein pygopus|C2H2-type domain-containing protein
+ACON2_039079	XM_049608944.1	LOC125907325	uncharacterized LOC125907325	uncharacterized protein LOC125907325
+ACON2_039086	XM_040379820.2	LOC120957555	ornithine decarboxylase 2-like	ornithine decarboxylase 2-like
+ACON2_039099	XM_049609650.1	LOC120955386	dimethylaniline monooxygenase [N-oxide-forming] 3-like	dimethylaniline monooxygenase [N-oxide-forming] 3-like
+ACON2_039169	XM_040385741.2	LOC120961733	uncharacterized LOC120961733	uncharacterized protein LOC120961733
+ACON2_039205	XM_049611100.1	LOC125908376	uncharacterized LOC125908376	uncharacterized protein LOC125908376
+ACON2_039207	XM_049611031.1	LOC125908330	uncharacterized LOC125908330	uncharacterized protein LOC125908330
+ACON2_039210	XM_040380286.2	LOC120957868	retinoid-inducible serine carboxypeptidase-like	retinoid-inducible serine carboxypeptidase-like|Carboxypeptidase
+ACON2_039211	XM_040376895.2	LOC120955765	zinc finger protein 37-like	zinc finger protein 37-like|zinc finger protein 846-like
+ACON2_039304	XR_005752302.2	LOC120960246	small nucleolar RNA U3	
+ACON2_039307	XM_040366787.2	LOC120949471	apyrase-like	apyrase-like
+ACON2_039322	XM_040383177.2	LOC120959626	calpain-B-like	calpain-B-like|Calpain catalytic domain-containing protein
+ACON2_039341	XM_040371046.2	LOC120951999	uncharacterized LOC120951999	uncharacterized protein LOC120951999
+ACON2_039342	XM_040365664.2	LOC120948868	uncharacterized LOC120948868	uncharacterized protein LOC120948868
+ACON2_039365	XR_007451781.1	LOC125906407	uncharacterized LOC125906407	
+ACON2_039417	XM_049610248.1	LOC120956261	zinc finger protein 397-like	zinc finger protein 397-like
+ACON2_039421	XM_040383417.2	LOC120959775	uncharacterized LOC120959775	uncharacterized protein LOC120959775|G_PROTEIN_RECEP_F1_2 domain-containing protein
+ACON2_039441	XM_040377564.2	LOC120956192	uncharacterized LOC120956192	uncharacterized protein LOC120956192
+ACON2_039521	XM_040369144.2	LOC120950816	carcinine transporter	carcinine transporter|MFS domain-containing protein
+ACON2_039540	XM_040364707.2	m	zona pellucida domain-containing protein miniature	uncharacterized protein LOC120948418|ZP domain-containing protein
+ACON2_039577	XM_049609634.1	LOC120958500	histone H2B	histone H2B
+ACON2_039702	XM_040363109.2	RASSF8	ras association domain-containing protein 8	transcription factor mef2A
+ACON2_039725	XR_007452701.1	LOC125907487	uncharacterized LOC125907487	
+ACON2_039738	XM_040363160.2	LOC120947660	glutathione S-transferase 1-1-like	glutathione S-transferase 1-1-like|glutathione transferase
+ACON2_039739	XM_040365888.2	LOC120948979	malate synthase-like	malate synthase-like
+ACON2_039740	XM_040372031.2	LOC120952616	venom allergen 3-like	antigen 5 like allergen Cul n 1-like|SCP domain-containing protein
+ACON2_039756	XM_040375557.2	grp	serine/threonine-protein kinase grp	serine/threonine-protein kinase grp|Non-specific serine/threonine protein kinase
+ACON2_039790	XM_040376343.2	LOC120955454	uncharacterized LOC120955454	uncharacterized protein LOC120955454
+ACON2_039848	XM_040366469.2	LOC120949268	acylphosphatase-2-like	acylphosphatase-2-like
+ACON2_039862	XM_040372676.2	LOC120953025	methylenetetrahydrofolate reductase	methylenetetrahydrofolate reductase
+ACON2_039867	XM_049607690.1	LOC125906878	lipase 3-like	lipase 3-like
+ACON2_039877	XM_049608329.1	LOC125907234	uncharacterized LOC125907234	uncharacterized protein LOC125907234
+ACON2_039924	XM_049610170.1	LOC120959732	luciferin sulfotransferase-like	luciferin sulfotransferase-like
+ACON2_039943	XM_040376341.2	LOC120955453	uncharacterized LOC120955453	uncharacterized protein LOC120955453|N-acetyltransferase domain-containing protein
+ACON2_039980	XM_040382287.2	LOC120959120	protein cup-like	protein cup-like
+ACON2_040027	XM_040368103.2	Ubc10	ubiquitin conjugating enzyme 10	ubiquitin-conjugating enzyme E2 L3|ubiquitin-conjugating enzyme E2-18 kDa
+ACON2_040046	XM_040382681.2	LOC120959368	uncharacterized LOC120959368	uncharacterized protein LOC120959368
+ACON2_040057	XM_049610108.1	LOC120947278	uncharacterized LOC120947278	uncharacterized protein LOC120947278
+ACON2_040088	XM_049607470.1	LOC125906835	uncharacterized LOC125906835	uncharacterized protein LOC125906835
+ACON2_040091	XM_040369063.2	LOC120950777	uncharacterized LOC120950777	uncharacterized protein LOC120950777
+ACON2_040183	XM_049609636.1	LOC120958501	histone H2B	histone H2B
+ACON2_040196	XM_040366206.2	LOC120949149	uncharacterized LOC120949149	uncharacterized protein LOC120949149|CLIP domain-containing serine protease|Clip domain-containing protein
+ACON2_040207	XM_049605417.1	LOC120950371	titin	titin
+ACON2_040214	XM_049609040.1	LOC120957786	odorant receptor 49b-like	odorant receptor 49b-like
+ACON2_040231	XM_040366319.2	LOC120949200	phospholipid-transporting ATPase ABCA3-like	phospholipid-transporting ATPase ABCA3-like
+ACON2_040254	XM_040367125.2	Fuca	alpha-L-fucosidase	putative alpha-L-fucosidase
+ACON2_040262	XM_049608923.1	LOC120961234	uncharacterized LOC120961234	uncharacterized protein LOC120961234
+ACON2_040308	XM_049609385.1	LOC125907417	CD109 antigen-like	CD109 antigen-like|Thioester-containing protein 1
+ACON2_040321	XM_040368940.2	LOC120950687	uncharacterized LOC120950687	uncharacterized protein LOC120950687
+ACON2_040351	XM_049607998.1	LOC125906923	uncharacterized LOC125906923	uncharacterized protein LOC125906923
+ACON2_040358	XM_049606077.1	fs(1)N	female sterile (1) Nasrat	uncharacterized protein LOC120952176
+ACON2_040430	XM_040365946.2	wech	tripartite motif containing 71 protein wech	protein wech|B box-type domain-containing protein
+ACON2_040432	XM_040368286.2	LOC120950327	cytochrome P450 6a22-like	cytochrome P450 6a22-like
+ACON2_040536	XM_040372981.2	LOC120953218	tubulin alpha-1 chain-like	tubulin alpha-1 chain-like|Tubulin alpha chain
+ACON2_040593	XM_040371828.2	LOC120952472	uncharacterized LOC120952472	uncharacterized protein LOC120952472|Serine-rich adhesin for platelets
+ACON2_040602	XM_040371698.2	LOC120952395	uncharacterized LOC120952395	uncharacterized protein LOC120952395
+ACON2_040613	XM_040368391.2	LOC120950402	elongation factor 1-alpha 1-like	GRIP and coiled-coil domain-containing protein 2-like
+ACON2_040623	XM_049608428.1	LOC125907249	uncharacterized LOC125907249	uncharacterized protein LOC125907249
+ACON2_040675	XM_040378665.2	LOC120956884	ovochymase-2-like	ovochymase-2-like
+ACON2_040693	XM_040371407.2	Fpps	Farnesyl pyrophosphate synthase	farnesyl pyrophosphate synthase
+ACON2_040715	XM_040382434.2	LOC120959197	uncharacterized LOC120959197	uncharacterized protein LOC120959197
+ACON2_040720	XM_049608853.1	LOC120959683	peptide methionine sulfoxide reductase-like	peptide methionine sulfoxide reductase-like|Peptide-methionine (S)-S-oxide reductase
+ACON2_040731	XM_040369423.2	LOC120950971	serine/threonine-protein kinase 32A	serine/threonine-protein kinase 32A|Protein kinase domain-containing protein
+ACON2_040736	XM_040364668.2	LOC120948399	uncharacterized LOC120948399	uncharacterized protein LOC120948399|Protein sleepless
+ACON2_040778	XR_007452146.1	LOC125906798	uncharacterized LOC125906798	
+ACON2_040792	XM_049607527.1	LOC125906852	nuclear transcription factor Y subunit beta-like	nuclear transcription factor Y subunit beta-like
+ACON2_040812	XM_040371086.2	mRpS18A	mitochondrial ribosomal protein S18A	28S ribosomal protein S18a, mitochondrial
+ACON2_040836	XM_040382151.2	LOC120959026	transcriptional regulator ovo-like	transcriptional regulator ovo-like
+ACON2_040837	XM_040380036.2	LOC120957704	myotubularin-related protein DDB_G0290005	myotubularin-related protein DDB_G0290005|Trichohyalin
+ACON2_040839	XM_040370312.2	LOC120951534	platelet glycoprotein V-like	platelet glycoprotein V-like|LRRCT domain-containing protein
+ACON2_040896	XM_040368687.2	LOC120950559	L-lactate dehydrogenase	L-lactate dehydrogenase
+ACON2_040938	XM_040363150.2	LOC120947649	proton-coupled folate transporter-like	proton-coupled folate transporter-like|MFS domain-containing protein
+ACON2_040940	XM_040373282.2	LOC120953396	uncharacterized LOC120953396	uncharacterized protein LOC120953396|C2H2-type domain-containing protein
+ACON2_040965	XM_040371519.2	LOC120952275	sialin-like	sialin-like|MFS domain-containing protein
+ACON2_040990	XM_040372708.2	LOC120953043	probable WRKY transcription factor protein 1	probable WRKY transcription factor protein 1|THAP-type domain-containing protein
+ACON2_041012	XM_040377294.2	Trim9	E3 ubiquitin-protein ligase Trim9	E3 ubiquitin-protein ligase TRIM9|RING-type E3 ubiquitin transferase
+ACON2_041042	XM_040367258.2	Dll	homeotic protein distal-less	homeotic protein distal-less
+ACON2_041116	XM_040369882.2	Orco	odorant receptor co-receptor	odorant receptor coreceptor|Odorant receptor obligate co-receptor (Orco)
+ACON2_041136	XM_040367349.2	LOC120949817	protein lethal(2)essential for life-like	protein lethal(2)essential for life-like|SHSP domain-containing protein
+ACON2_041153	XM_040362631.2	LOC120947373	mitochondrial import inner membrane translocase subunit TIM14	mitochondrial import inner membrane translocase subunit TIM14|J domain-containing protein
+ACON2_041161	XM_049605249.1	LOC125906443	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_041191	XM_040371030.2	LOC120951989	G2/mitotic-specific cyclin-B-like	G2/mitotic-specific cyclin-B-like|Cyclin N-terminal domain-containing protein
+ACON2_041204	XM_040368979.2	Mlc1	Myosin light chain alkali	myosin light chain alkali
+ACON2_041211	XM_040379233.2	LOC120957176	toll-like receptor Tollo	toll-like receptor Tollo
+ACON2_041220	XM_040371769.2	LOC120952438	uncharacterized LOC120952438	uncharacterized protein LOC120952438|PHD domain-containing protein
+ACON2_041234	XM_040384266.2	LOC120960216	phenoloxidase-activating factor 2-like	phenoloxidase-activating factor 2-like|Peptidase S1 domain-containing protein
+ACON2_041239	XR_005752316.2	LOC120960261	U11 spliceosomal RNA	
+ACON2_041270	XM_040371471.2	nerfin-1	nervous fingers 1	protein glass|C2H2-type domain-containing protein
+ACON2_041285	XM_049608594.1	LOC120961035	nuclear factor of activated T-cells 5-like	nuclear factor of activated T-cells 5-like|uncharacterized protein LOC120961035
+ACON2_041292	XM_040365903.2	Achl	La ribonucleoprotein translational regulator Achilles	uncharacterized protein LOC120948988
+ACON2_041304	XM_040368299.2	LOC120950334	ankyrin repeat domain-containing protein 12	ankyrin repeat domain-containing protein 12|ANK_REP_REGION domain-containing protein
+ACON2_041308	XM_040381358.2	LOC120958509	MOXD1 homolog 1	MOXD1 homolog 1
+ACON2_041328	XM_040380686.2	LOC120958112	sterol O-acyltransferase 1-like	sterol O-acyltransferase 1-like
+ACON2_041336	XM_040382505.2	brat	tripartite motif-containing protein brain tumor	brain tumor protein|B box-type domain-containing protein
+ACON2_041351	XM_049609524.1	LOC120959834	uncharacterized LOC120959834	uncharacterized protein LOC120959834
+ACON2_041362	XM_040378008.2	Ets98B	DNA-binding protein Ets98B	DNA-binding protein D-ETS-4|ETS domain-containing protein
+ACON2_041383	XM_040374392.2	RecQ4	RecQ4 helicase	uncharacterized protein LOC120953944
+ACON2_041391	XM_040375584.2	LOC120955079	anillin-like	anillin-like
+ACON2_041446	XM_040374493.2	LOC120954002	cysteine sulfinic acid decarboxylase	cysteine sulfinic acid decarboxylase
+ACON2_041460	XM_049610058.1	LOC120959774	uncharacterized LOC120959774	uncharacterized protein LOC120959774
+ACON2_041512	XM_040384200.2	LOC120960181	histone H1.0-like	histone H1.0-like
+ACON2_041535	XM_040366889.2	TpnT	Troponin T, skeletal muscle	troponin T, skeletal muscle
+ACON2_041551	XM_040365432.2	smg	sterile alpha motif domain containing protein 4 smaug	protein Smaug
+ACON2_041602	XM_040378534.2	POSH	SH3 domain containing ring finger posh	E3 ubiquitin-protein ligase SH3RF3|Plenty of SH3s|RING-type E3 ubiquitin transferase
+ACON2_041643	XM_049609153.1	LOC125906403	uncharacterized LOC125906403	uncharacterized protein LOC125906403
+ACON2_041675	XR_005751126.2	LOC120950395	uncharacterized LOC120950395	
+ACON2_041687	XM_040371473.2	LOC120952244	histidine--tRNA ligase, cytoplasmic-like	histidine--tRNA ligase, cytoplasmic-like
+ACON2_041713	XM_040376351.2	LOC120955461	larval cuticle protein A2B-like	larval cuticle protein A2B-like
+ACON2_041729	XM_049609633.1	LOC125907441	histone H2B	histone H2B
+ACON2_041774	XM_040379840.2	LOC120957568	pacifastin-like protease inhibitor cvp4	pacifastin-like protease inhibitor cvp4|Pacifastin domain-containing protein
+ACON2_041838	XM_040364098.2	LOC120948104	aminopeptidase N-like	aminopeptidase N-like
+ACON2_041840	XM_049607200.1	LOC120948527	uncharacterized LOC120948527	uncharacterized protein LOC120948527
+ACON2_041842	XM_040373056.2	LOC120953262	mitochondrial-processing peptidase subunit beta-like	mitochondrial-processing peptidase subunit beta-like
+ACON2_041866	XM_040367232.2	LOC120949744	uncharacterized LOC120949744	uncharacterized protein LOC120949744
+ACON2_041901	XM_040382557.2	LOC120959278	hexamerin-1.1-like	hexamerin-1.1-like|Hexamerin A
+ACON2_041907	XM_049609763.1	LOC120959399	mucin-5AC-like	mucin-5AC-like
+ACON2_041911	XM_049610413.1	LOC120957004	uncharacterized LOC120957004	uncharacterized protein LOC120957004|Endonuclease_NS domain-containing protein
+ACON2_041929	XM_040380035.2	LOC120957701	mucin-2-like	mucin-2-like|Chitin-binding type-2 domain-containing protein
+ACON2_041938	XM_040381083.2	eya	eya transcriptional coactivator and phosphatase 2	developmental protein eyes absent
+ACON2_041952	XM_040373359.2	LOC120953446	uncharacterized LOC120953446	uncharacterized protein LOC120953446
+ACON2_041956	XM_049610529.1	LOC120956615	kynurenine formamidase	kynurenine formamidase
+ACON2_041961	XM_049608888.1	LOC125907302	uncharacterized LOC125907302	uncharacterized protein LOC125907302
+ACON2_041963	XM_040378125.2	Mhc	myosin heavy chain	myosin heavy chain, muscle
+ACON2_041967	XM_040364979.2	LOC120948540	uncharacterized LOC120948540	uncharacterized protein LOC120948540|Transmembrane protein 192
+ACON2_042011	XM_040373760.2	LOC120953630	transferrin	transferrin
+ACON2_042015	XM_040377681.2	LOC120956299	uncharacterized LOC120956299	uncharacterized protein LOC120956299
+ACON2_042066	XM_040371708.2	LOC120952400	protein obstructor-E-like	protein obstructor-E-like|Peritrophin-1
+ACON2_042077	XM_049606866.1	LOC125906719	uncharacterized protein K02A2.6-like	uncharacterized protein K02A2.6-like
+ACON2_042140	XR_005751096.2	LOC120950061	uncharacterized LOC120950061	
+ACON2_042244	XM_040378064.2	sloth2	ubiquinol-cytochrome c reductase complex assembly factor 6 sloth 2	protein BRAWNIN
+ACON2_042245	XM_040365053.2	Axn	protein axin	axin
+ACON2_042333	XM_049605473.1	LOC120948204	DE-cadherin-like	DE-cadherin-like
+ACON2_042347	XM_040368285.2	LOC120950326	probable cytochrome P450 6a14	probable cytochrome P450 6a14|Cytochrome P450
+ACON2_042351	XM_049607989.1	LOC125906921	uncharacterized LOC125906921	uncharacterized protein LOC125906921
+ACON2_042376	XM_040373270.2	LOC120953388	juvenile hormone esterase-like	juvenile hormone esterase-like
+ACON2_042387	XM_040382790.2	LOC120959420	microfibril-associated glycoprotein 4-like	microfibril-associated glycoprotein 4-like|Fibrinogen C-terminal domain-containing protein
+ACON2_042390	XM_040385031.2	LOC120961324	uncharacterized LOC120961324	uncharacterized protein LOC120961324
+ACON2_042438	XM_049605183.1	LOC125906426	uncharacterized LOC125906426	uncharacterized protein LOC125906426
+ACON2_042449	XM_040379821.2	LOC120957556	ornithine decarboxylase 2-like	ornithine decarboxylase 2-like|Orn_Arg_deC_N domain-containing protein
+ACON2_042458	XM_040379417.2	bora	aurora kinase A activator-like protein bora	protein aurora borealis
+ACON2_042466	XM_049609067.1	Klp54D	Kinesin-like protein at 54D	kinesin-like protein KIF12|kinesin-like protein Klp68D
+ACON2_042467	XM_040374012.2	LOC120953767	cuticle protein-like	cuticle protein-like
+ACON2_042508	XM_040372027.2	fest	wurstfest	uncharacterized protein LOC120952605
+ACON2_042520	XM_049608940.1	LOC120956172	uncharacterized LOC120956172	uncharacterized protein LOC120956172
+ACON2_042521	XM_040378536.2	LOC120956799	uncharacterized LOC120956799	uncharacterized protein LOC120956799
+ACON2_042568	XR_007452604.1	LOC120955782	uncharacterized LOC120955782	
+ACON2_042603	XM_040371794.2	LOC120952464	serine protease snake-like	serine protease snake-like
+ACON2_042620	XR_007453002.1	LOC125907856	large subunit ribosomal RNA	
+ACON2_042678	XM_040381434.2	LOC120958552	uncharacterized LOC120958552	uncharacterized protein LOC120958552|NACHT domain-containing protein
+ACON2_042698	XM_040370447.2	LOC120951640	E3 ubiquitin-protein ligase RFWD3	E3 ubiquitin-protein ligase RFWD3|RING-type domain-containing protein
+ACON2_042707	XM_049605684.1	LOC125906530	delta-like protein A	delta-like protein A|EGF-like domain-containing protein
+ACON2_042722	XM_040365606.2	LOC120948842	uncharacterized LOC120948842	uncharacterized protein LOC120948842
+ACON2_042728	XM_049609509.1	LOC120956325	uncharacterized LOC120956325	uncharacterized protein LOC120956325
+ACON2_042783	XM_040365224.2	LOC120948643	probable multidrug resistance-associated protein lethal(2)03659	probable multidrug resistance-associated protein lethal(2)03659
+ACON2_042814	XM_040375121.2	LOC120954856	myosin-1-like	myosin-1-like|Calponin-homology (CH) domain-containing protein
+ACON2_042835	XM_040377675.2	LOC120956293	oxidative stress-induced growth inhibitor 2-like	oxidative stress-induced growth inhibitor 2-like|FAD/NAD(P)-binding domain-containing protein
+ACON2_042892	XM_040373236.2	Msh6	DNA mismatch repair protein Msh6	probable DNA mismatch repair protein Msh6
+ACON2_042900	XM_040382835.2	LOC120959449	clavesin-1-like	clavesin-1-like
+ACON2_042914	XM_040371434.2	LOC120952220	uncharacterized LOC120952220	uncharacterized protein LOC120952220
+ACON2_042924	XM_040375771.2	LOC120955179	phospholipid-transporting ATPase ABCA3-like	phospholipid-transporting ATPase ABCA3-like
+ACON2_042936	XR_005752281.2	LOC120959997	uncharacterized LOC120959997	
+ACON2_042964	XM_040376344.2	LOC120955455	uncharacterized LOC120955455	uncharacterized protein LOC120955455
+ACON2_043038	XM_040383445.2	LOC120959799	uncharacterized LOC120959799	uncharacterized protein LOC120959799
+ACON2_043050	XM_049605116.1	LOC120948856	uncharacterized LOC120948856	uncharacterized protein LOC120948856|G_PROTEIN_RECEP_F1_2 domain-containing protein
+ACON2_043066	XM_040385044.2	LOC120961332	nose resistant to fluoxetine protein 6-like	nose resistant to fluoxetine protein 6-like
+ACON2_043118	XM_040362686.2	Mmp1	Matrix metalloproteinase 1	matrix metalloproteinase-14|ZnMc domain-containing protein|stromelysin-3
+ACON2_043171	XM_040374585.2	LOC120954035	flexible cuticle protein 12-like	flexible cuticle protein 12-like|Larval cuticle protein 8
+ACON2_043177	XM_049605289.1	LOC120949795	uncharacterized LOC120949795	uncharacterized protein LOC120949795|BAR domain-containing protein
+ACON2_043207	XM_040363048.2	LOC120947593	probable salivary secreted peptide	probable salivary secreted peptide|Salivary secreted peptide
+ACON2_043218	XM_040367497.2	LOC120949903	uncharacterized LOC120949903	uncharacterized protein LOC120949903|MARVEL domain-containing protein
+ACON2_043241	XM_049605562.1	LOC120953212	O-acyltransferase like protein-like	O-acyltransferase like protein-like|Acyl_transf_3 domain-containing protein|uncharacterized protein LOC120953212
+ACON2_043248	XM_040369988.2	LOC120951330	ras-like protein family member 10B	ras-like protein family member 10B
+ACON2_043273	XM_040378880.2	Ir76b	Ionotropic receptor 76b	glutamate receptor ionotropic, delta-1|Ionotropic receptor coreceptor Ir76b|PBPe domain-containing protein
+ACON2_043295	XM_040380795.2	LOC120958181	uncharacterized LOC120958181	uncharacterized protein LOC120958181
+ACON2_043310	XM_040374582.2	LOC120954033	ceramide-1-phosphate transfer protein	ceramide-1-phosphate transfer protein|GLTP domain-containing protein
+ACON2_043334	XM_040383217.2	LOC120959648	uncharacterized LOC120959648	uncharacterized protein LOC120959648|BESS domain-containing protein
+ACON2_043372	ND4	ND4	NADH dehydrogenase subunit 4	mitochondrially encoded NADH dehydrogenase 4 (mitochondrial genome)

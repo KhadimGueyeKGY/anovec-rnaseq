@@ -1,0 +1,14 @@
+name: rnaseq
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pyyaml
+  - fastqc=0.12.1
+  - trim-galore=0.6.10
+  - star=2.7.11b
+  - salmon=1.10.3
+  - samtools=1.21
+  - gffread=0.12.7
+  - multiqc=1.25

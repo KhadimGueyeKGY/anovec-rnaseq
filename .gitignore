@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+logs/
+*.sif
+singularity_cache/
+notebook/figures/
+notebook/tables/
