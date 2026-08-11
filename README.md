@@ -78,6 +78,7 @@ bash main.sh config.yaml
 
 ```
 anovec-rnaseq-nf/
+<<<<<<< HEAD
 ├── main.sh                    entry point, calls run_pipeline.py
 ├── run_pipeline.py            orchestrates all steps for every sample
 ├── run_pipeline.sbatch        SLURM launcher
@@ -96,6 +97,17 @@ anovec-rnaseq-nf/
     ├── Anopheles_coluzzii.AcolN3.63.gtf.gz
     ├── gene_annotation_targets.tsv   built by notebook/scripts (section 11)
     └── gene_annotations.tsv          built by notebook/scripts (section 11)
+=======
+├── main.sh              entry point, calls run_pipeline.py
+├── run_pipeline.py       orchestrates all steps for every sample
+├── run_pipeline.sbatch   SLURM launcher
+├── config.yaml
+├── samplesheet.csv
+├── environment.yml
+├── process/              one module per pipeline step
+├── notebook/             downstream analysis notebooks
+└── references/
+>>>>>>> c2b184e0c5e0d3d6bfc777f49fc74ee0ffe5406d
 ```
 
 ## 8. Output
@@ -114,6 +126,7 @@ outdir/
 └── pipeline.log
 ```
 
+<<<<<<< HEAD
 ## 10. Downstream analysis notebook
 
 `notebook/rnaseq_qc_summary.ipynb` covers QC, transcript- and gene-level
@@ -155,5 +168,11 @@ no name is available.
 
 ## 12. Notes
 
+=======
+## 9. Notes
+
+- Gene-level summarization (tximport) and DESeq2 differential expression
+  analysis are a separate, not yet implemented step.
+>>>>>>> c2b184e0c5e0d3d6bfc777f49fc74ee0ffe5406d
 - Contamination screening (blood meal, *Wolbachia*, *Plasmodium*) is a
   separate, not yet implemented step.
